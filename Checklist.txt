@@ -1,0 +1,25 @@
+Week 1
+- Basic 1 -- Hakan -- Done
+- Advanced 2 -- Hakan
+- Advanced 3 -- Wan
+- Advanced 4 -- Hakan
+- Regular 5 -- Hakan
+- Optional 6 -- Unassigned
+
+Week 2
+- Basic 1 -- Hakan -- Done
+- Basic 2 -- Hakan -- Almost, add explanations
+- Basic 3 -- Wan
+- Regular 4 -- Wan
+- Advanced 5 -- 
+
+Week 3
+- Basic 1 -- Hakan -- Almost, fix problem last part 
+- Advanced 2 -- Hakan
+- Basic 3 -- Wan
+- Regular 4 -- Wan
+- Regular 5 -- Wan
+- Advanced 6 -- Unassigned
+- Regular 7 -- Unassigned
+- Regular 8 -- Unassigned
+
