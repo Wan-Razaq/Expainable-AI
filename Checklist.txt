@@ -14,7 +14,7 @@ Week 2
 - Advanced 5 -- 
 
 Week 3
-- Basic 1 -- Hakan -- Almost, fix problem last part 
+- Basic 1 -- Hakan -- Done
 - Advanced 2 -- Hakan
 - Basic 3 -- Wan
 - Regular 4 -- Wan
