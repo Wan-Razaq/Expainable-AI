@@ -8,18 +8,19 @@ Week 1
 
 Week 2
 - Basic 1 -- Hakan -- Done
-- Basic 2 -- Hakan -- Done (would be nice to dubbel check with teacher)
+- Basic 2 -- Hakan -- Done Checked with teacher. 
 - Basic 3 -- Wan
 - Regular 4 -- Wan
 - Advanced 5 -- 
 
 Week 3
 - Basic 1 -- Hakan -- Done
-- Advanced 2 -- Hakan
+- Advanced 2 -- Hakan --> Tip Teacher: See NIPS google Adversarial Attack. 
 - Basic 3 -- Wan
 - Regular 4 -- Wan
 - Regular 5 -- Wan
 - Advanced 6 -- Unassigned
-- Regular 7 -- Hakan
-- Regular 8 -- Unassigned
+- Regular 7 -- Hakan --> Problems solved, Python 3.8 needed to run
+- Regular 8 -- Unassigned   --> Ask teacher if this can be done without doing Ex 7 because of the problems I face tere.
+--> Explain self what you interpet it. Teacher not fixed to a certain answer.
 
